@@ -1,5 +1,5 @@
 class KindsController < ApplicationController
-  before_action :authenticate_user!
+  # before_action :authenticate_user!
   # TOKEN = "secret123"
 
   # include ActionController::HttpAuthentication::Basic::ControllerMethods

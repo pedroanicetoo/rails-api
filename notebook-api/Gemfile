@@ -17,6 +17,10 @@ gem 'puma', '~> 3.0'
 # A pure implementation of the RFC 7519 OAuth JSON Web Token (JWT) standard
 gem 'jwt'
 gem 'devise_token_auth', '~> 1.1.0'
+#A plugin for versioning Rails based RESTful APIs.
+gem 'versionist'
+
+
 
 gem 'devise-i18n'
 
