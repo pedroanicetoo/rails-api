@@ -1,0 +1,8 @@
+linux :
+-sudo vim /etc/hosts
+-edit ---> 127.0.0.1			meusite.local
+			---> 127.0.0.1			v1.meusite.local
+			---> 127.0.0.1		  v2.meusite.local
+-esc
+:wq
+enter
